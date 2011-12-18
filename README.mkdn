@@ -1,5 +1,4 @@
-#OrientDB
-###[http://www.orientechnologies.com]
+[![][header]](http://www.orientechnologies.com)
 
 OrientDB is a document-graph database written in Java with no dependencies other than Java 6 or greater.
 
@@ -16,6 +15,6 @@ OrientDB is a document-graph database written in Java with no dependencies other
 * So many more
 ***
 
-
+[header]: http://www.orientechnologies.com/images/orient_db.png
 [http://www.orientechnologies.com]: http://www.orientechnologies.com "http://www.orientechnologies.com"
 
