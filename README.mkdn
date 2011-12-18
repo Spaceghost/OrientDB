@@ -1,0 +1,21 @@
+#OrientDB
+###[http://www.orientechnologies.com]
+
+OrientDB is a document-graph database written in Java with no dependencies other than Java 6 or greater.
+
+***
+
+###Features
+* ACID transactions
+* Indexing
+* Rich documents with JSON syntax
+* SQL support
+* HTTP REST protocol using JSON
+* Embeddable
+* Lightweight
+* So many more
+***
+
+
+[http://www.orientechnologies.com]: http://www.orientechnologies.com "http://www.orientechnologies.com"
+
